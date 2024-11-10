@@ -70,7 +70,10 @@ plt.show()
 </code>
 </pre>
 
-<h2>Contributing</h2>
+![image](https://github.com/user-attachments/assets/e0f609ae-b083-468e-b5aa-6d4b84398574)
+![image](https://github.com/user-attachments/assets/5f654fbe-96b0-4175-afc4-393fab7dce79)
+
+
 
 <p>Feel free to open issues or submit pull requests if you would like to add additional features or improve the forecast accuracy.</p>
 
